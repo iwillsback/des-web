@@ -1,0 +1,209 @@
+Revisão Prova des.web
+
+
+
+2)
+
+GitHub é um serviço que é baseado no git 
+
+ Git e um sistema de vercionamento 
+
+
+
+3)
+
+Html- conteúdo (construção do documento)
+
+CSS- estilo (animações)
+
+Javascript- comportamento 
+
+
+
+4)
+
+Tag são elementos utilizados para marcar seções de texto 
+
+Elemento é uma instância de uma tag 
+
+Atributo representa as características daquele elemento
+
+
+
+5)html mínimo 
+
+<html>
+
+<head>
+
+        <title> Minha página</title>
+
+        <meta chatset=utf-8>
+
+</head>
+
+<body>
+
+        <p> Estou por aqui </p>
+
+</body>
+
+</html>
+
+
+
+6)
+
+Variação da abstração da internet 
+
+
+
+7)
+
+Tcp- entrega confiável 
+
+-orientado à conexão 
+
+
+
+Udc- não tem garantia de entrega 
+
+-não tem conexão 
+
+
+
+8)
+
+Os nós pertencentes as aplicações atuam como cliente e servidor
+
+
+
+9)
+
+Processos são programas rodando em um nó da internet , ip e porta para a identificação do processo
+
+
+
+10)
+
+SSL - camada de segurança (protocolo)
+
+
+
+11)
+
+2 Head e Body , Não 
+
+
+
+12)
+
+Mozilla developer
+
+
+
+13)
+
+Form.
+
+
+
+14)
+
+<a></a>
+
+A
+
+
+
+15)
+
+Apresentação repositório 
+
+
+
+16)
+
+a) determina e associa um elemento a um conjunto.
+
+
+
+b) representação unívoca do elemento.
+
+
+
+c) identificar o valor dos elementos quando envia dados para o servidor 
+
+
+
+d) determina se um elemento deve ser exibido 
+
+
+
+e) estilos localmente do elemento
+
+
+
+d) dar um título para um elemento
+
+
+
+17)
+
+ Degradação graciosa ou elegante- Característica da web em que os documentos devem fazer sentido 
+
+
+
+18)
+
+Regra é o conjunto formado por seletor e declarações 
+
+Seletor define quais elementos serão afetados 
+
+Declaração define como e quais alterações devem ser feitas
+
+
+
+19)
+
+Seletor de classe seleciona os elementos de uma classe (ex: .nome_classe)
+
+
+
+Seletor de id seleciona um elemento específico 
+
+(ex: #meu_id)
+
+
+
+20)
+
+Margin- espaço externo do elemento
+
+
+
+Border- a linha sólida do lado de fora do padding 
+
+
+
+Padding- espaço ao redor do conteúdo 
+
+
+
+21)
+
+Repositório.
+
+
+
+22)
+
+Chaves 
+
+
+
+23)
+
+Declara constante
+
+Um e escorpo de bloco e o outro de função.
